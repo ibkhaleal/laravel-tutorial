@@ -1,2 +1,2 @@
-# laravel-tutprial
+# laravel-tutorial
 My Laravel Tutorial journey.
